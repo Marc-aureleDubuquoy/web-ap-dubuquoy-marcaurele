@@ -19,3 +19,12 @@ li {
     font-weight: bold;
     color: seagreen;
 }
+
+.deconseille {
+    fontweight: bold;
+    color: red;
+}
+
+em {
+    margin-bottom: 4px;
+}
